@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Skills_will_learning_in_Vadim_Ksendzovs_course>
+	<skill_1>Command line in Linux Terminal. Actions copied, create, viewing, moving files on servers without  graphic interface</skill_1>
+	<skill_2>Bash script bases, automation actions on server</skill_2>
+	<skill_3>SQL actions (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</skill_3>
+	<skill_4>DB Postgres (install, setting and usage</skill_4>
+	<skill_5>Not-Relational DB Redis (install, setting and usage)</skill_5>
+	<skill_6>Нагрузочное тестирование в Jmeter</skill_6>
+	<skill_7>Python (Изучение основ. Создание клиент серверного приложения)</skill_7>
+	<skill_8>Тестирование API через Postman(JS, автотесты API)</skill_8>
+	<skill_9>Снятие и чтение логов с сервера</skill_9>
+	<skill_10>Снифинг http web трафика через Charles и Fiddler</skill_10>
+	<skill_11>Dev Tools веб браузеров (Google Cromne, FireFox)</skill_11>
+	<skill_12>VPN (как работае, зачем нужен, как использовать, варианты инструментов)</skill_12>
+	<skill_13>Мобильное тестирование</skill_13>
+	<skill_l4>Сборка iOS приложений на XCode</skill_l4>
+	<skill_l5>Сборка Android приложений на Android Studio</skill_l5>
+	<skil_l6>ADB (упоавление андроид девайсами)</skil_l6>
+	<skill_17>Настройка прокси и VPN на iOS и Android</skill_17>
+	<skill_18>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android</skill_18>
+</Skills_will_learning_in_Vadim_Ksendzovs_course>
+
